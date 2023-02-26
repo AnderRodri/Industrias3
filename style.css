@@ -5,9 +5,9 @@
   list-style: none;
 }
 body {
-  background-image: url(.);
+  background-image: url(./assets/background-img.jpg);
   background-position: center;
-  background-size: 37cm;
+  background-size: 62cm;
   background-repeat: no-repeat;
   height: 100vh;
 }
