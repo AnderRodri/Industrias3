@@ -13,24 +13,25 @@ body {
 }
 a {
   display: block;
-  border: 5px solid forestgreen;
   border-radius: 30px;
   text-align: center;
   justify-content: center;
-  background-color: gray;
-  color: black;
   padding: 5px;
   margin: 70px 0 0;
   font-size: large;
 }
 #semifinal-text a {
   margin: 0 0 0 0;
+  border: 5px solid cyan;
+  background-color: cornflowerblue;
+  color: black;
 }
 #semifinal-text img {
   position: absolute;
   border-radius: 50%;
-  height: 100px;
-  left: 600px;
+  height: 80px;
+  left: 610px;
+  margin: 10px 0 0 0;
 }
 ul {
   display: flex;
@@ -39,6 +40,8 @@ ul {
   margin: 30px 0 0 0;
 }
 ul li a {
+  border: 3px solid white;
+  background-color: limegreen;
   display: flex;
   align-items: center;
   justify-content: center;
