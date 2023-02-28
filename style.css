@@ -6,6 +6,7 @@
 }
 body {
   background-image: url(./assets/background-img.jpg);
+  background-color: limegreen;
   background-position: center;
   background-size: 62cm;
   background-repeat: no-repeat;
